@@ -1,0 +1,3 @@
+elasticsearch~=8.5.3
+streamlit~=1.16.0
+streamlit-searchbox~=0.0.4
